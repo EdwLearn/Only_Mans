@@ -45,7 +45,7 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archiv
 
 ## Contacto
 
-Para cualquier consulta o sugerencia, por favor, contacta a los mantenedores del proyecto en [contact@onlymans.com](mailto:contact@onlymans.com).
+Para cualquier consulta o sugerencia, por favor, contacta a los mantenedores del proyecto en [contactparahombres@gmail.com](mailto:contactparahombres@gmail.com).
 
 ---
 
